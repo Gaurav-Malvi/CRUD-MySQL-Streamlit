@@ -7,7 +7,7 @@ from validate_email import validate_email
 my_database = mysql.connector.connect(
     host = "localhost",
     user = "root",
-    password = "Malvi12Gaurav32",
+    password = "your_password",
     database = "mydb"
 )
 
