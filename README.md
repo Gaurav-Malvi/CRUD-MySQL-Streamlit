@@ -10,6 +10,6 @@
 
 
 # Run the streamlit app
-`streamlit run app.py`
+`streamlit run main.py`
 
 
