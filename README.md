@@ -13,3 +13,4 @@
 `streamlit run main.py`
 
 
+![Screenshot 2024-07-24 232042](https://github.com/user-attachments/assets/2a512754-a063-4605-970c-5474a53065ca)
